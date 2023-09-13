@@ -24,3 +24,6 @@ npm run build
 # or
 yarn build
 ```
+
+![image](https://github.com/Aashray446/inno_next/assets/69245931/94f2c7ec-8996-45b7-b43a-3bd2c80b16e1)
+
